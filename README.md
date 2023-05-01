@@ -6,7 +6,7 @@ This project is created to help dev's to make social authentication in Django.
 ## To run the project
 Prerequisites: Python3, pipenv<br/>
 Tech Stack: Python3, Django<br>
-Third Party: <a href='https://django-allauth.readthedocs.io/en/latest/' target="_blank" rel="noopener noreferrer">django-allauth</a>
+Third Party: <a href='https://django-allauth.readthedocs.io/en/latest/' target="_blank">django-allauth</a>
 
 1. Checkout the code
 2. Create a virtual environment (pipenv shell)
