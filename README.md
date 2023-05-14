@@ -18,4 +18,4 @@ Third Party: <a href='https://django-allauth.readthedocs.io/en/latest/' target="
 ## Video Example:
 Part 1: https://youtu.be/DEiyixPajh0<br>
 Part 2: https://youtu.be/QVYBGsDdZRc<br>
-Part 3: Coming soon...
+Part 3: https://youtu.be/YAUFiI3pYmQ
